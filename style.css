@@ -76,12 +76,22 @@ body {
     width: 100%;
 }
 
+.link:hover {
+    background-color: rgb(0, 163, 46);
+    box-shadow: 0 0px 30px rgb(0, 255, 72);
+}
+
+
 .link a {
     color: #0b0b0b;
     text-decoration: none;
     font-weight: bold;
     justify-content: center;
     align-items: center;
+}
+
+.link a:hover {
+    color: #f1f1f1;
 }
 
 .rastro-neon {
