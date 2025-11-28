@@ -104,3 +104,15 @@ body {
     background-color: rgb(0, 255, 72);
     transition: opacity 0.3s ease;
 }
+
+.socials {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+a:hover {
+    opacity: 0.7;
+}
